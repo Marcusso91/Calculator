@@ -4,6 +4,10 @@
 
 in this short program, I present the operation of a simple calculator that can be used to add, subtract, multiply and divide
 
+### Technologies used:
+- Java [JDK 8+]
+- Java Swing
+
 ### === Software And Tools Required ===
 - NetBeans IDE
 - Java [JDK 8+]
